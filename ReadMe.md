@@ -1,6 +1,6 @@
 ## **Skrypt - FilesWatcher**
 ---
-### _Skrypt startowy._
+### _Skrypt monitoruje wskazany foldder i w przypadku gdy pojawią się w nim nowe pliki przenosi je do ścieżko docelowej._
 ##### Ostatnia aktualizacja 2024.02.21 Autor: [Rafal B.]
 
 ---
